@@ -1,0 +1,6 @@
+# requirements.txt
+aiosqlite>=0.21.0
+# add your other dependencies here (e.g., fastapi, uvicorn, etc.)
+fastapi>=0.111.0
+uvicorn[standard]>=0.21.0
+# … other libs
